@@ -30,7 +30,7 @@ Application data is stored in the user profile (%USERPROFILE%\) rather than the 
 🔒 Single Instance & Localization
 
 • Only one instance of the program can run at a time (controlled via a system Mutex).
-• The RU (PowerWatch.exe) and UA (PowerWatchUA.exe) versions share the same configuration files and will not conflict, but they cannot run simultaneously.
+• The UA (PowerWatchUA.exe) versions share the same configuration files and will not conflict, but they cannot run simultaneously.
 
 🛠️ System Dependencies
 
@@ -110,7 +110,7 @@ PowerWatchUA — це утиліта для Windows, призначена для
 🔒 Робота в один екземпляр та локалізації
 
 • Другий екземпляр програми не запуститься завдяки системному Mutex.
-• Російська (PowerWatch.exe) та українська (PowerWatchUA.exe) версії використовують спільні файли даних у профілі й не конфліктують між собою, але одночасно працювати не можуть.
+• Українська (PowerWatchUA.exe) версії використовують спільні файли даних у профілі й не конфліктують між собою, але одночасно працювати не можуть.
 
 🛠️ Системні залежності
 
