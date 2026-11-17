@@ -73,9 +73,9 @@ The application folder is fully portable. PowerWatchUA.exe uses .NET Framework 4
 
 If this tool helps you stay organized and protects your data during blackouts, you can support the development via crypto:
 
-* **USDT (TRC-20):** `TMPhdnKSesRhe6dAeHb6X6uLcUshvb2Hhj`
-* **USDT (BEP20):** `0xaee7ecdd8aeff38b8904471e809f531d9b3bffcf`
-* **TON:** `UQDu3cLECCN1HERQ1Y7mRhFU5Y5bko3Wz34q016KbEhAtZNh`
+* **USDT (TRC-20):** `TMPhdnKSesRhe6dAeHb6X6uLcUshvb2Hhj` *(Min. deposit: 1 USDT)*
+* **USDT (BEP20):** `0xaee7ecdd8aeff38b8904471e809f531d9b3bffcf` *(Min. deposit: 0.1 USDT)*
+* **TON:** `UQDu3cLECCN1HERQ1Y7mRhFU5Y5bko3Wz34q016KbEhAtZNh` *(Min. deposit: 0.1 TON — **No Memo/Tag required!**)*
 
 Thank you for your support! 💙💛
 
@@ -153,9 +153,9 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /codepage:65001 
 
 Якщо эта утиліта допомагає вам організувати роботу та зберігає ваші дані під час відключень світла, ви можете підтримати розробку за допомогою криптовалюти:
 
-* **USDT (TRC-20):** `TMPhdnKSesRhe6dAeHb6X6uLcUshvb2Hhj`
-* **USDT (BEP20):** `0xaee7ecdd8aeff38b8904471e809f531d9b3bffcf`
-* **TON:** `UQDu3cLECCN1HERQ1Y7mRhFU5Y5bko3Wz34q016KbEhAtZNh`
+* **USDT (TRC-20):** `TMPhdnKSesRhe6dAeHb6X6uLcUshvb2Hhj` *(Мін. депозит: 1 USDT)*
+* **USDT (BEP20):** `0xaee7ecdd8aeff38b8904471e809f531d9b3bffcf` *(Мін. депозит: 0.1 USDT)*
+* **TON:** `UQDu3cLECCN1HERQ1Y7mRhFU5Y5bko3Wz34q016KbEhAtZNh` *(Мін. депозит: 0.1 TON — **Memo/Tag НЕ потрібен!**)*
 
 Дякую за вашу підтримку! 💙💛
 
